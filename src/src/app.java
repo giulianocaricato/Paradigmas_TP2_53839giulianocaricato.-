@@ -19,7 +19,7 @@ public class App {
     public static void main(String[] args) {
 
         // a. Se crean 3 estudiantes
-        Estudiante est1 = new Estudiante("53467", "Valentin Ressia");
+        Estudiante est1 = new Estudiante("53467", "Giuliano Caricato");
         Estudiante est2 = new Estudiante("54321", "Juan Lopez");
         Estudiante est3 = new Estudiante("12345", "Martin Perez");
 
